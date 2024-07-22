@@ -25,4 +25,3 @@ A presentation highlighting the findings of this analysis, including testing met
 
 Below is an example of the graphs used to visualize our results. These graphs, as well as additional graphs, the code used to generate them, and the code used to run our stat sig calcs, can be found in the 'survey-data-script-final.ipynb' file within the 'code' directory.
 
-Treatment status by Care Options
